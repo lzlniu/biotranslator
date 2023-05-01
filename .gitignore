@@ -1,6 +1,5 @@
 build/
 dist/
-biotranslator/biotranslator/__pycache__/
 pypirc
 .idea/
 biotranslator/__pycache__/
@@ -12,3 +11,4 @@ biotranslator/trainer/__pycache__/
 biotranslator/utils/__pycache__/
 biotranslator.egg-info/
 biotranslator/BioTranslator/biotranslator/__pycache__/
+biotranslator/BioTranslator/__pycache__/
