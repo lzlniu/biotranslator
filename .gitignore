@@ -3,6 +3,7 @@ dist/
 biotranslator/biotranslator/__pycache__/
 pypirc
 .idea/
+BioTranslator.egg-info
 biotranslator/__pycache__/
 biotranslator/config/__pycache__/
 biotranslator/loader/__pycache__/
