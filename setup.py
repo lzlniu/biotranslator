@@ -37,11 +37,4 @@ setup(
         "nltk",
         "torchvision==0.8.2",
     ],
-    
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-    ],
-    
-    python_requires='==3.7',
 )
